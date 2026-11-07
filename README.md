@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EDUHUB#
 
 GIỚI THIỆU BẢN THÂN
@@ -11,3 +12,6 @@ GIỚI THIỆU BẢN THÂN
 
 ## 
 
+=======
+# EDUHUB
+>>>>>>> origin/main
